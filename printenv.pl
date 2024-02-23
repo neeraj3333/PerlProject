@@ -9,11 +9,11 @@
 # leaks information - so NEVER use it in a live server environment!
 # It is provided only for testing purpose.
 # Also note that it is subject to cross site scripting attacks on
-# MS IE and any other browser which fails to honor RFC2616. 
+# MS IE and any other browser which fails to honor RFC2616.
 
 ##
 ##  printenv -- demo CGI program which just prints its environment
-##
+## HELLO
 use strict;
 use warnings;
 
